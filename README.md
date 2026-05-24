@@ -1,4 +1,4 @@
-# Stock-MArket-Forecasting
+
 # Financial Market Forecasting – Stock Price Prediction & Predictive Modeling
 
 An end-to-end predictive analytics pipeline designed to ingest, clean, and model historical financial market data to forecast future asset price trends. This project handles the high volatility and non-linear patterns of stock market timelines by implementing sequential deep learning architectures.
